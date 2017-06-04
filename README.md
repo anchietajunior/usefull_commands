@@ -7,8 +7,15 @@ Usefull commands is a simple repository to keep some quick configurations and ti
 
 # Mount USB device with Windows on Mac
 
-List
+Discover and unmount the storage device.
 
 ```sh
 $ disktutil list
+$ disktutil unmountDisk /dev/your-disk-number
+```
+
+Extract ISO content to the selected device.
+
+```sh
+$ sudo dd if=/path-to-the-iso of=/dev/your-disk-number bs=1m
 ```
