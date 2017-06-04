@@ -19,3 +19,9 @@ Extract ISO content to the selected device.
 ```sh
 $ sudo dd if=/path-to-the-iso of=/dev/your-disk-number bs=1m
 ```
+
+Wait some simutes until this ends, and eject the device.
+
+```sh
+$ diskutil eject /dev/your-disk-number
+```
