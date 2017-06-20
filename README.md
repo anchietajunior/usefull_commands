@@ -1,5 +1,9 @@
 # Macvim + Janus
 
+## Installation
+
+[Janus](https://github.com/carlhuda/janus)
+
 ## Files
 
 Open/Close the NerdTree
