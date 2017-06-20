@@ -16,11 +16,24 @@ Refresh new files created for Command + T
 
 ## Editing modes
 
+```sh
 i = Insert
+```
+
+```sh
 v = Visual
+```
+
+```sh
 d = Delete
+```
 
 ## Moving
 
+```sh
 $ = End of the line
+```
+
+```sh
 0 = Beginning of current line
+```
