@@ -14,6 +14,12 @@ Refresh new files created for Command + T
 :ClearCtrlPCache
 ```
 
+Search file
+
+```sh
+Command + T (Mac)
+```
+
 ## Editing modes
 
 ```sh
