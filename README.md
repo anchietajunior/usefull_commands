@@ -43,3 +43,25 @@ $ = End of the line
 ```sh
 0 = Beginning of current line
 ```
+
+## Editor
+
+
+```sh
+A = Insert text at the end of the line
+```
+
+## Actions
+
+
+```sh
+yy = Copy
+```
+
+```sh
+p = Paste
+```
+
+```sh
+dd = Delete
+```
