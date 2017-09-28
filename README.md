@@ -4,6 +4,18 @@
 
 [Janus](https://github.com/carlhuda/janus)
 
+## Update Theme and Editor Options
+
+```sh
+vi ~/.gvimrc.after
+
+-------------------
+
+color Molokai
+set macligatures
+set guifont=Fira\ Code:h22
+``
+
 ## Files
 
 Open/Close the NerdTree
