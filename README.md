@@ -36,6 +36,12 @@ Search file
 Command + T (Mac)
 ```
 
+## Remove highlight after search
+
+```sh
+:nohlsearch
+```
+
 ## Editing modes
 
 ```sh
