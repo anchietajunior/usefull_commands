@@ -1,3 +1,9 @@
+# PostgreSQL Mac installation
+
+## role 'postgres' does not exist
+
+createuser -s -r postgres
+
 # Macvim + Janus
 
 ## Installation
